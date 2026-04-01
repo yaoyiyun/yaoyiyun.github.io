@@ -7,8 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-姚璜，华中师范大学人工智能教育学部，副教授。
-<!--
+姚璜，武汉大学工学博士（导师：龚健雅 院士），华中师范大学人工智能教育学部副教授。研究领域为计算机视觉（动作质量评价(Action Quality Assessment)/遥感影像分类）, 人地耦合关系研究（GIS/ABM）.
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
