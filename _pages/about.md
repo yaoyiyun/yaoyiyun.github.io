@@ -7,11 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-姚璜，武汉大学工学博士（导师：龚健雅 院士），华中师范大学人工智能教育学部副教授。研究领域为计算机视觉（动作质量评价(Action Quality Assessment)/遥感影像分类）, 人地耦合关系研究（GIS/ABM）.
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+姚璜，武汉大学工学博士（导师：龚健雅 院士），华中师范大学人工智能教育学部副教授，长期从事机器学习、VR/AR、人工智能+教育方向的科研和教学工作。当前研究领域包括计算机视觉（动作质量评价(Action Quality Assessment)/遥感影像分类）, 人机交互（教育智能体，VR教育应用）， 人地耦合关系研究（地理信息系统GIS/基于智能体的建模ABM）等。
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
--->
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
