@@ -41,3 +41,7 @@ redirect_from:
 - Zhang X, Wei Y, Yao H, et al. Improved Local Covariance Matrix Representation for Hyperspectral Image Classification[C]//IGARSS 2020-2020 IEEE International Geoscience and Remote Sensing Symposium. IEEE, 2020: 68-71.
 - Yao, H., et al. (2020). "Broad Learning System with Locality Sensitive Discriminant Analysis for Hyperspectral Image Classification." Mathematical Problems in Engineering.
 
+招生专业
+------
+人工智能教育学部：数字媒体技术，人工智能，计算机科学与技术
+伍伦贡联合研究院：计算机技术，通信工程
