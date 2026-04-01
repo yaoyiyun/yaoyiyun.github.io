@@ -22,24 +22,24 @@ redirect_from:
   
 在研项目
 ======
-1.国家自然科学基金联合基金重点项目课题，青藏高原南部旧石器人群高寒环境适应过程与机制（U2574202）
-2.国家重点研发计划课题，多语种多模态语料库众智化生成与虚拟交互系统（2023YFC3305601）
-3.虚实融合智能交互实验教学关键技术研究及应用（CCNU25ZDPY012）
-4.智能分析与个性化导学智能体研发（KJH2025-0023）
-5.文档页面图片智能几何校正技术研发（KJH2025-0061）
+- 国家自然科学基金联合基金重点项目课题，青藏高原南部旧石器人群高寒环境适应过程与机制（U2574202）
+- 国家重点研发计划课题，多语种多模态语料库众智化生成与虚拟交互系统（2023YFC3305601）
+- 虚实融合智能交互实验教学关键技术研究及应用（CCNU25ZDPY012）
+- 智能分析与个性化导学智能体研发（KJH2025-0023）
+- 文档页面图片智能几何校正技术研发（KJH2025-0061）
 
 论文发表
 ======
-1.Tian, Yuan, Cai, Hang, Yao, Huang, Chen, Di, Facial Expression Recognition Method Based on Octonion Orthogonal Feature Extraction and Octonion Vision Transformer, International Journal of Intelligent Systems, 2025, 6388642, 13 pages, 2025. https://doi.org/10.1155/int/6388642.
-2.Yao, H.; Yang, X.; Chen, D.; Wang, Z.; Tian, Y. Facial Expression Recognition Based on Fine-Tuned Channel–Spatial Attention Transformer. Sensors 2023, 23, 6799. https://doi.org/10.3390/s23156799.
-3.Liu, L.; Wei, Y.; Wang, Y.; Yao, H.; Chen, D. Using Double-Layer Patch-Based Contrast for Infrared Small Target Detection. Remote Sens. 2023, 15, 3839. https://doi.org/10.3390/rs15153839 .
-4.Yao, Huang, Liping Liu, Yantao Wei, Di Chen, and Mingwen Tong. 2023. "Infrared Small-Target Detection Using Multidirectional Local Difference Measure Weighted by Entropy" Sustainability 15, no. 3: 1902. https://doi.org/10.3390/su15031902.
-5.Hu, Meijia, Yantao Wei, Mengsiying Li, Huang Yao, Wei Deng, Mingwen Tong, and Qingtang Liu. 2022. "Bimodal Learning Engagement Recognition from Videos in the Classroom" Sensors 22, no. 16: 5932. https://doi.org/10.3390/s22165932.
-6.X. Zhang, Y. Wei, W. Cao, H. Yao, J. Peng and Y. Zhou, "Local Correntropy Matrix Representation for Hyperspectral Image Classification," in IEEE Transactions on Geoscience and Remote Sensing, vol. 60, pp. 1-13, 2022, Art no. 5525813, doi: 10.1109/TGRS.2022.3162100.
-7.Xiao G, Wei Y, Yao H, et al. Hierarchical broad learning system for hyperspectral image classification[J]. IET Image Processing, 2021.
-8.Zhang X , Wei Y , Yao H , et al. Locally Homogeneous Covariance Matrix Representation for Hyperspectral Image Classification[J]. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2021, PP(99):1-1.
-9.Zhang X, Wei Y, Yao H, et al. Improved Local Covariance Matrix Representation for Hyperspectral Image Classification[C]//IGARSS 2020-2020 IEEE International Geoscience and Remote Sensing Symposium. IEEE, 2020: 68-71.
-10.Yao, H., et al. (2020). "Broad Learning System with Locality Sensitive Discriminant Analysis for Hyperspectral Image Classification." Mathematical Problems in Engineering.
+- Tian, Yuan, Cai, Hang, Yao, Huang, Chen, Di, Facial Expression Recognition Method Based on Octonion Orthogonal Feature Extraction and Octonion Vision Transformer, International Journal of Intelligent Systems, 2025, 6388642, 13 pages, 2025. https://doi.org/10.1155/int/6388642.
+- Yao, H.; Yang, X.; Chen, D.; Wang, Z.; Tian, Y. Facial Expression Recognition Based on Fine-Tuned Channel–Spatial Attention Transformer. Sensors 2023, 23, 6799. https://doi.org/10.3390/s23156799.
+- Liu, L.; Wei, Y.; Wang, Y.; Yao, H.; Chen, D. Using Double-Layer Patch-Based Contrast for Infrared Small Target Detection. Remote Sens. 2023, 15, 3839. https://doi.org/10.3390/rs15153839 .
+- Yao, Huang, Liping Liu, Yantao Wei, Di Chen, and Mingwen Tong. 2023. "Infrared Small-Target Detection Using Multidirectional Local Difference Measure Weighted by Entropy" Sustainability 15, no. 3: 1902. https://doi.org/10.3390/su15031902.
+- Hu, Meijia, Yantao Wei, Mengsiying Li, Huang Yao, Wei Deng, Mingwen Tong, and Qingtang Liu. 2022. "Bimodal Learning Engagement Recognition from Videos in the Classroom" Sensors 22, no. 16: 5932. https://doi.org/10.3390/s22165932.
+- X. Zhang, Y. Wei, W. Cao, H. Yao, J. Peng and Y. Zhou, "Local Correntropy Matrix Representation for Hyperspectral Image Classification," in IEEE Transactions on Geoscience and Remote Sensing, vol. 60, pp. 1-13, 2022, Art no. 5525813, doi: 10.1109/TGRS.2022.3162100.
+- Xiao G, Wei Y, Yao H, et al. Hierarchical broad learning system for hyperspectral image classification[J]. IET Image Processing, 2021.
+- Zhang X , Wei Y , Yao H , et al. Locally Homogeneous Covariance Matrix Representation for Hyperspectral Image Classification[J]. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2021, PP(99):1-1.
+- Zhang X, Wei Y, Yao H, et al. Improved Local Covariance Matrix Representation for Hyperspectral Image Classification[C]//IGARSS 2020-2020 IEEE International Geoscience and Remote Sensing Symposium. IEEE, 2020: 68-71.
+- Yao, H., et al. (2020). "Broad Learning System with Locality Sensitive Discriminant Analysis for Hyperspectral Image Classification." Mathematical Problems in Engineering.
 
 ------
 The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
