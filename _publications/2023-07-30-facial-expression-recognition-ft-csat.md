@@ -1,7 +1,7 @@
 ---
 title: "Facial Expression Recognition Based on Fine-Tuned Channel–Spatial Attention Transformer"
 collection: publications
-category: Article
+category: manuscripts
 permalink: /publication/2023-07-30-facial-expression-recognition-ft-csat
 excerpt: 'This paper proposes a model called the fine-tuned channel–spatial attention transformer (FT-CSAT) to improve the accuracy of facial expression recognition (FER) in the wild.'
 date: 2023-07-30
