@@ -1,14 +1,17 @@
----
-title: "Facial Expression Recognition Based on Fine-Tuned Channel–Spatial Attention Transformer"
+\---
+
+title: "Occlusion Robust Cognitive Engagement Detection in Real-World Classroom"
 collection: publications
 category: manuscripts
-permalink: /publication/2023-07-30-facial-expression-recognition-ft-csat
-excerpt: 'This paper proposes a model called the fine-tuned channel–spatial attention transformer (FT-CSAT) to improve the accuracy of facial expression recognition (FER) in the wild.'
-date: 2023-07-30
+permalink: /publication/2024-07-03-occlusion-robust-Cognitive-Engagement-Detectiofacial
+excerpt: 'This paper employs the YOLOv8n framework with an improved Inner Minimum Point Distance Intersection over Union (IMPDIoU) Loss to detect cognitive engagement. Moreover,we construct a real-world Students’ Cognitive Engagement (SCE) dataset.'
+date: 2024-07-03
 venue: 'Sensors'
 slidesurl: ''
-paperurl: 'https://www.mdpi.com/1424-8220/23/15/6799'
+paperurl: 'https://www.mdpi.com/1424-8220/24/11/3609'
 bibtexurl: ''
-citation: 'Yao, H., Wang, Z., et al. (2023). &quot;Facial Expression Recognition Based on Fine-Tuned Channel–Spatial Attention Transformer.&quot; <i>Sensors</i>. 23(15), 6799.'
+citation: 'Xiao, G., Xu, Q., Wei, Y., Yao, H., \& Liu, Q. (2024). Occlusion Robust Cognitive Engagement Detection in Real-World Classroom. Sensors, 24(11), 3609.'
 ---
+
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+
