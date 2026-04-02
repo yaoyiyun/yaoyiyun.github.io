@@ -2,9 +2,9 @@
 title: "Facial Expression Recognition Method Based on Octonion Orthogonal Feature Extraction and Octonion Vision Transformer"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-01-01-facial-expression-recognition-octonion
+permalink: /publication/2025-04-21-facial-expression-recognition-octonion
 excerpt: 'This paper proposes a facial expression recognition (FER) method based on octonion orthogonal feature extraction and an octonion Vision Transformer (ViT). It aims to reduce feature redundancy and computational resource consumption while improving recognition accuracy in natural scenes.'
-date: 2024-01-01
+date: 2025-04-21
 venue: 'International Journal of Intelligent Systems'
 slidesurl: ''
 paperurl: 'https://onlinelibrary.wiley.com/doi/10.1155/int/6388642'
